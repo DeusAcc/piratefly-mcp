@@ -1,4 +1,5 @@
 {
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.DeusAcc/piratefly-mcp",
   "description": "Is this flight price good? Buy-or-wait verdicts from 90 days of observed fares.",
   "version": "1.0.0",
