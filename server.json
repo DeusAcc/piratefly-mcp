@@ -1,0 +1,11 @@
+{
+  "name": "io.github.DeusAcc/piratefly-mcp",
+  "description": "Is this flight price good? Buy-or-wait verdicts from 90 days of observed fares.",
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://next.piratefly.com/mcp"
+    }
+  ]
+}
